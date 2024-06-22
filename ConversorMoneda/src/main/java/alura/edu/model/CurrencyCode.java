@@ -9,5 +9,7 @@ public enum CurrencyCode {
     USD,
     ARS,
     COP,
-    BRL
+    BRL,
+    MXN,
+    BOB
 }

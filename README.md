@@ -1,5 +1,5 @@
 
-# Currency Converter
+# Conversor de monedas
 
 ## Descripción
 
@@ -39,9 +39,17 @@ La interfaz gráfica del programa se realiza a través de la consola, ofreciendo
    El programa solicitará al usuario que ingrese la moneda de origen, la moneda de destino y la cantidad a convertir. Luego, mostrará el resultado de la conversión basado en las tasas de cambio obtenidas de la API ExchangeRate-API.
 
    Capturas de pantalla de la interfaz en consola:
+   
+   Pantalla inicial: 
 
    ![Captura 1](https://github.com/ejsantamaria/ConversorMoneda/blob/main/ConversorMoneda/assets/Screenshot%202024-06-21%20224937.png)
+
+   Ejecución de conversiones de monedas:
+
    ![Captura 2](https://github.com/ejsantamaria/ConversorMoneda/blob/main/ConversorMoneda/assets/Screenshot%202024-06-21%20225023.png)
+
+   Extras: 
+   ![Captura 3](https://github.com/ejsantamaria/ConversorMoneda/blob/main/ConversorMoneda/assets/Screenshot%202024-06-21%20231628.png)
    
 
 ## Estructura del Proyecto
